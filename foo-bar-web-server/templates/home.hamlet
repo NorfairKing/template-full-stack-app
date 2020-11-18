@@ -1,0 +1,4 @@
+<h1>
+  Foo Bar
+<h2>
+  Greeting: #{greeting}

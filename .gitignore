@@ -1,0 +1,8 @@
+.stack-work
+stack.yaml.lock
+*.cabal
+result*
+.pre-commit-config.yaml
+*.aes
+*.sqlite3*
+*.dat
